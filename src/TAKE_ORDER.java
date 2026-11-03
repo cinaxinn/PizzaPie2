@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.util.Scanner;
 
 public class TAKE_ORDER {
     public static void main(String[] args) {
